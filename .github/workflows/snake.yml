@@ -1,6 +1,3 @@
-y en la ruta: .github/workflows/snake.yml dentro de tu repositorio para que la animación funcione automáticamente
-
-
 name: generate animation
 
 on:
